@@ -1,0 +1,14 @@
+<htlm>
+<head>
+<title> carta </title>
+</head>
+<body> 
+<center> <h1> <font color="purple"> sito in costruzione </font> </h1> </center> 
+<br> <br> <br> <br> <br> <br>
+
+<marquee width="30%"> Sito in costuzione  </marquee> 
+
+
+Torna >a href="carta.html"> indietro. </a> 
+</body> </html>
+

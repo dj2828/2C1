@@ -1,0 +1,28 @@
+<html>
+<head>
+<title> Elenchi ordinati e non ordinanti </title>
+<body>
+<h1> Elenco ordinato </h1>
+<p> 5 migliori giocatori di basket GOAT
+<ol tye="1">
+<li> Jordan </li>
+<li> Kobe </li>
+<li> Magic </li>
+<li> Russell </li>
+<li> Bird</li>
+</ol>
+<ol tye="A">
+<li> Jordan </li>
+<li> Kobe </li>
+<li> Magic </li>
+<li> Russell </li>
+<li> Bird</li>
+</o>l
+<ol tye="I">
+<li> Jordan </li>
+<li> Kobe </li>
+<li> Magic </li>
+<li> Russell </li>
+<li> Bird</li>
+</ol>
+</p>
