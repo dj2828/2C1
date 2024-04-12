@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>1.20.5-pre1</title>
+    <link rel="stylesheet" href="snapshot.css">
+</head>
+<body bgcolor="ff5500"> 
+    <center><h1>1.20.5-pre1</h1></center>
+    <br>
+    <center><h3>Per maggiori informazioni <a href="https://minecraft.wiki/w/Java_Edition_1.20.5_Pre-Release_1" target="_blank">clicca qui</a></h3></center>
+
+    <br>
+    <h2>Aggiunte:</h2>
+    <ul>
+        <li></li>
+        <ul>
+            <li></li>
+        </ul>
+    </ul>
+    <br><br>
+    <center><p><a href="versioni.html">Torna in dietro</a></p></center>
+</body> 
+</html>
