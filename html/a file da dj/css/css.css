@@ -1,0 +1,24 @@
+h1,h2{
+font-family: arial black;
+}
+a{
+text-decoration: none;
+color: 000;
+transition: color 0.2s;
+}
+#h{
+width: 10%;
+transition: background-color 0.5s;
+transition: border-color: 0.5s;
+border-radius: 10px;
+border-style: solid;
+border-color: lightblue;
+}
+#h:hover{
+border-style: solid;
+border-color: fff;
+background-color: 000;
+}
+#h:hover a{
+color: lightblue;
+}
