@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>1C1</title>
+    <title>2C1</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,20 +12,36 @@
         h1, h2, h3{
             font-family: 'Montserrat', sans-serif; color: white;
         }
+        #a{text-decoration: none;}
         a{
             font-family: 'Montserrat', sans-serif; color: white;
+        }
+        h2{
+            background-color: blue;
+            border: 1px solid black;
+            border-radius: 4px;
+            text-align: center;
+            width: 110px;
+            color: white;
+            font-family: 'Montserrat', sans-serif;
+            letter-spacing: 1px;
+            transition: background-color 0.3s, border-color 0.3s;
+        }
+        h2:hover{
+            background-color: black;
+            border: 1px solid blue;
         }
     </style>
 </head>
 <body bgcolor="ff5500">
     <center>
-        <h1>SITO DELLA 1C1</h1>
-        <h3>by <a href="https://dj2828.github.io/sito/" target="_blank" style="color: white;">Dj 2828</a></h3>
+        <h1>SITO DELLA 2C1</h1>
+        <h3>by <a href="https://dj2828.github.io/sito/" target="_blank">Dj 2828</a></h3>
 
         <br><br>
         
-        <h2><a href="html/index.html">HTML</a></h2>
-        <h2><a href="https://github.com/dj2828/1C1/tree/master/c%2B%2B">C++</a></h2>
+        <a href="html/index.html" id="a"><h2>HTML</h2></a>
+        <a href="https://github.com/dj2828/2C1/tree/master/c%2B%2B" id="a" target="_blank"><h2>C++</h2></a>
 
     </center>
 </body>
