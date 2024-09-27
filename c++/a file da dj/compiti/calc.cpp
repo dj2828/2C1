@@ -14,5 +14,7 @@ int main(){
     cout << "Il risultato della sottrazione è: " << men << endl;
     cout << "Il risultato della moltiplicazione è: " << per << endl;
     cout << "Il risultato della divisione è: " << div << endl;
+
+    system("PAUSE");
     return 0;
 }

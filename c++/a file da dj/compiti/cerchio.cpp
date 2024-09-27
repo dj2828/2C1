@@ -8,5 +8,7 @@ int main(){
     area = r*r*3.14;
     cout << "Il perimetro è: " << perimetro << endl;
     cout << "L'area è: " << area << endl;
+
+    system("PAUSE");
     return 0;
 }
