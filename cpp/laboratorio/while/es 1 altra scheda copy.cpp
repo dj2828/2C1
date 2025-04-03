@@ -43,17 +43,12 @@ int main(){
         case 7:
             break;
         default:
-            system("cls");
-            system("color c");
             cout << "Scelta non valida" << endl;
             system("pause");
-            system("color f");
         }
-        system("cls");
 
     }while(scelta != 7);
 
-    system("color a");
     cout << "Prezzo totale: " << tot << endl;
 
     system("pause");
